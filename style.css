@@ -1,0 +1,39 @@
+.carousel-item img{
+    height: 600px;
+    width: 100%;
+}
+.nav-color{
+    background-color:#20c997;
+}
+.font-color{
+    color: white;
+}
+/* .card img{
+    width: 100%;
+    height: 300px;
+} */
+.card-group{
+    width: 900px;
+}
+.carousel-indicators li{
+    border-radius: 100%;
+    height: 10px;
+    width: 10px;
+}
+.carousel-caption h5{
+    text-align: left;
+    color: white;
+    font-size:xx-large;
+    font-weight: 500;
+    font-family: 'Potta One', cursive;
+}
+.carousel-caption p{
+    text-align: left;
+    color: black;
+    font-size:x-large;
+    font-weight: 400;
+    font-family: 'Lemonada', cursive;
+}
+footer{
+    text-align: center;
+}
